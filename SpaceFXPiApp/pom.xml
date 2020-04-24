@@ -46,7 +46,7 @@
             <plugin>
                 <groupId>com.gluonhq</groupId>
                 <artifactId>client-maven-plugin</artifactId>
-                <version>0.1.22</version>
+                <version>0.1.23-SNAPSHOT</version>
                 <configuration>
                     <!-- Uncomment to run on Linux -->
                     <target>linux-aarch64</target>
